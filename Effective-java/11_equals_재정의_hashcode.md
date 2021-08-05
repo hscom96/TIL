@@ -1,4 +1,4 @@
-#아이템11. equals를 재정의하려거든 hashCode도 재정의하라
+# 아이템11. equals를 재정의하려거든 hashCode도 재정의하라
 
 - 핵심 : __equals를 재정의한 모든 클래스는 hashCode도 같이 재정의해야한다.__
   - 어기면 HashSet 같은 컬렉션 원소로 사용할 때 문제를 일으킨다.
