@@ -1,20 +1,12 @@
 # TIL
 > Today I Learned
 
-A collection of concrete writeups of small things I learn daily while working
-and researching. My goal is to work in public. I was inspired to start this
-repository after reading Simon Wilson's [hacker new post][1], and he was
-apparently inspired by Josh Branchaud's [TIL collection][2].
+📚 하루하루 기록을 
 
 
 _34 TILs and counting..._
 
 ---
-
-### 2 most recent TILs
-
-- [[2021/07/15][Okky] 개발자에 좋은 이직퇴사를위한 꿀팁](seminar/(2021_7_15)(okky)개발자에게_좋은_이직퇴사를위한_꿀팁.md) - Sun Sep 12 22:23:49 2021 +0900
-- [> 본 게시글은  __최범균 저 '테스트 주도 개발 시작하기'__ 책을 읽고  개인 공부목적으로 요약한 글입니다.](도서/테스트주도_개발_시작하기.md) - Fri Jul 30 01:47:19 2021 +0900
 
 ### Categories
 
