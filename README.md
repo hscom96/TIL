@@ -1,9 +1,10 @@
 # TIL
+> Today I Learned
 
 📚 꾸준히 기록을 
 
 
-_40 TILs and counting..._
+_39 TILs and counting..._
 
 ---
 
@@ -11,7 +12,6 @@ _40 TILs and counting..._
 
 - [Effective-java](#Effective-java)
 - [OAuth](#OAuth)
-- [Test](#Test)
 - [seminar](#seminar)
 - [도서](#도서)
 
@@ -54,9 +54,6 @@ _40 TILs and counting..._
 
 ### [OAuth](#OAuth)
 - [OAUTH2 기본](OAuth/OAuth2_기본.md)
-
-### [Test](#Test)
-- [Test Double 이란](Test/Test_Double_이란.md)
 
 ### [seminar](#seminar)
 - [[2021/07/15] 개발자에 좋은 이직퇴사를위한 꿀팁](seminar/(2021_7_15)개발자에게_좋은_이직퇴사를위한_꿀팁.md)
