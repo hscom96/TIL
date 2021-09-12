@@ -58,7 +58,7 @@ _34 TILs and counting..._
 - [[9/8] 캐치 개발자 커리어콘](seminar/(2021_9_8)개발자커리어콘.md)
 
 ### [도서](#도서)
-- [> 본 게시글은  __최범균 저 '테스트 주도 개발 시작하기'__ 책을 읽고  개인 공부목적으로 요약한 글입니다.](도서/테스트주도_개발_시작하기.md)
+- [테스트 주도 개발 시작하기](도서/테스트주도_개발_시작하기.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
