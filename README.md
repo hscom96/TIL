@@ -4,7 +4,7 @@
 📚 하루하루 기록을 
 
 
-_34 TILs and counting..._
+_40 TILs and counting..._
 
 ---
 
@@ -46,6 +46,12 @@ _34 TILs and counting..._
 - [아이템 27. 비검사 경고를 제거하라](Effective-java/27_비검사경고_제거하라.md)
 - [아이템 28. 배열보다는 리스트를 사용하라](Effective-java/28_배열보다는_리스트_사용하라.md)
 - [아이템 29. 이왕이면 제네릭 타입으로 만들라](Effective-java/29_이왕이면_제네릭타입으로_만들라.md)
+- [item 30. 이왕이면 제네릭 메서드로 만들라.](Effective-java/30_제네릭메서드로_만들라.md)
+- [item 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](Effective-java/31_한정적와일드카드_사용해_API유연성_높여라.md)
+- [item 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](Effective-java/32_제네릭_가변인수_함께쓸때는_신중하라.md)
+- [item 33. 타입 안전 이종 컨테이너를 고려하라](Effective-java/33_타입안전이종컨테이너를_고려하라.md)
+- [item 34. int 상수대신 열거 타입을 사용하라](Effective-java/34_int상수대신_열거타입_사용하라.md)
+- [item 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](Effective-java/35_ordinal메서드대신_인스턴스필드를_사용하라.md)
 
 ### [OAuth](#OAuth)
 - [OAUTH2 기본](OAuth/OAuth2_기본.md)
