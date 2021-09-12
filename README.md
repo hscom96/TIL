@@ -1,7 +1,6 @@
 # TIL
-> Today I Learned
 
-📚 하루하루 기록을 
+📚 꾸준히 기록을 
 
 
 _40 TILs and counting..._
