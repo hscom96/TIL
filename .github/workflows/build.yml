@@ -13,7 +13,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         # necessary for github-action-til-autoformat-readme
-        fetch-depth: 0
+        fetch-depth: 2
     - name: Autoformat README
       uses: cflynn07/github-action-til-autoformat-readme@1.1.0
       with:
