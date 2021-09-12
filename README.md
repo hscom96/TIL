@@ -34,7 +34,7 @@ _34 TILs and counting..._
 - [아이템7. 다 쓴 객체 잠조를 해제하라](Effective-java/07_다쓴객체참조해제.md)
 - [아이템8. finalizer와 cleaner 사용을 피하라](Effective-java/08_finalizer_cleaner_사용피해라.md)
 - [아이템9. try-finally 보다는 try-with-resources를 사용하라](Effective-java/09_try_with_resources.md)
-- [> ## 모든 객체의 공통 메서드](Effective-java/10_equals_재정의_일반규약.md)
+- [아이템10. equals는 일반 규약을 지켜 재정의하라](Effective-java/10_equals_재정의_일반규약.md)
 - [아이템11. equals를 재정의하려거든 hashCode도 재정의하라](Effective-java/11_equals_재정의_hashcode.md)
 - [아이템12. toString을 항상 재정의하라](Effective-java/12_toString_항상재정의해라.md)
 - [아이템13. clone 재정의는 주의해서 진행하라](Effective-java/13_clone_재정의_주의해라.md)
