@@ -1,5 +1,4 @@
 # TIL
-> Today I Learned
 
 📚 하루하루 기록을 
 
