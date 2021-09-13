@@ -4,16 +4,19 @@
 📚 꾸준히 기록을 
 
 
-_39 TILs and counting..._
+_38 TILs and counting..._
 
 ---
 
 ### Categories
 
+- [Book](#Book)
 - [Effective-java](#Effective-java)
 - [OAuth](#OAuth)
-- [seminar](#seminar)
-- [도서](#도서)
+
+### [Book](#Book)
+- [리펙터링 [마틴파울러 저]](Book/리펙터링.md)
+- [테스트 주도 개발 시작하기](Book/테스트주도_개발_시작하기.md)
 
 ### [Effective-java](#Effective-java)
 - [아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라](Effective-java/01_정적팩토리메서드.md)
@@ -54,13 +57,6 @@ _39 TILs and counting..._
 
 ### [OAuth](#OAuth)
 - [OAUTH2 기본](OAuth/OAuth2_기본.md)
-
-### [seminar](#seminar)
-- [[2021/07/15] 개발자에 좋은 이직퇴사를위한 꿀팁](seminar/(2021_7_15)개발자에게_좋은_이직퇴사를위한_꿀팁.md)
-- [[2021/9/8] 캐치 개발자 커리어콘](seminar/(2021_9_8)개발자커리어콘.md)
-
-### [도서](#도서)
-- [테스트 주도 개발 시작하기](도서/테스트주도_개발_시작하기.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
