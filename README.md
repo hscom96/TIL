@@ -16,7 +16,7 @@ _38 TILs and counting..._
 
 ### [Book](#Book)
 - [리펙터링 [마틴파울러 저]](Book/리펙터링.md)
-- [테스트 주도 개발 시작하기](Book/테스트주도_개발_시작하기.md)
+- [테스트 주도 개발 시작하기 [최범균 저]](Book/테스트주도_개발_시작하기.md)
 
 ### [Effective-java](#Effective-java)
 - [아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라](Effective-java/01_정적팩토리메서드.md)
