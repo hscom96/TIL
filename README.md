@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_38 TILs and counting..._
+_42 TILs and counting..._
 
 ---
 
@@ -54,6 +54,10 @@ _38 TILs and counting..._
 - [아이템 33. 타입 안전 이종 컨테이너를 고려하라](Effective-java/33_타입안전이종컨테이너를_고려하라.md)
 - [아이템 34. int 상수대신 열거 타입을 사용하라](Effective-java/34_int상수대신_열거타입_사용하라.md)
 - [아이템 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](Effective-java/35_ordinal메서드대신_인스턴스필드를_사용하라.md)
+- [아이템 36. 비트 필드 대신 EnumSet을 사용하라](Effective-java/36_비트필드_대신_EnumSet_사용하라.md)
+- [아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라](Effective-java/37_oridinal인덱싱_대신_EnumMap_사용하라.md)
+- [아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](Effective-java/38_확장할수있는_열거타입이_필요하면_인터페이스를_사용하라.md)
+- [아이템 39. 명명 패턴보다 애너테이션을 사용하라](Effective-java/39_명명패턴보다_애너테이션_사용하라.md)
 
 ### [OAuth](#OAuth)
 - [OAUTH2 기본](OAuth/OAuth2_기본.md)
