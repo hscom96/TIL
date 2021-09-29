@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_42 TILs and counting..._
+_49 TILs and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _42 TILs and counting..._
 
 ### [Book](#Book)
 - [리펙터링 [마틴파울러 저]](Book/리펙터링.md)
+- [자바와 Junit을 활용한 실용주의 단위 테스트](Book/자바와_Junit을_활용한_실용주의단위테스트.md)
 - [테스트 주도 개발 시작하기 [최범균 저]](Book/테스트주도_개발_시작하기.md)
 
 ### [Effective-java](#Effective-java)
@@ -46,6 +47,7 @@ _42 TILs and counting..._
 - [아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라](Effective-java/25_톱레벨클래스는_한파일에_하나만.md)
 - [아이템 26. 로 타입은 사용하지 말라](Effective-java/26_로타입_사용하지말라.md)
 - [아이템 27. 비검사 경고를 제거하라](Effective-java/27_비검사경고_제거하라.md)
+- [추가조사](Effective-java/28_2_추가조사정리_제네릭원리.md)
 - [아이템 28. 배열보다는 리스트를 사용하라](Effective-java/28_배열보다는_리스트_사용하라.md)
 - [아이템 29. 이왕이면 제네릭 타입으로 만들라](Effective-java/29_이왕이면_제네릭타입으로_만들라.md)
 - [아이템 30. 이왕이면 제네릭 메서드로 만들라.](Effective-java/30_제네릭메서드로_만들라.md)
@@ -58,6 +60,11 @@ _42 TILs and counting..._
 - [아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라](Effective-java/37_oridinal인덱싱_대신_EnumMap_사용하라.md)
 - [아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](Effective-java/38_확장할수있는_열거타입이_필요하면_인터페이스를_사용하라.md)
 - [아이템 39. 명명 패턴보다 애너테이션을 사용하라](Effective-java/39_명명패턴보다_애너테이션_사용하라.md)
+- [아이템 40. `@Overide`애너테이션을 일관되게 사용하라](Effective-java/40_@Overide애너테이션_일관되게_사용하라.md)
+- [아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](Effective-java/41_정의하려는것이_타입이라면_마커인터페이스를_사용하라.md)
+- [아이템 42. 익명 클래스보다는 람다를 사용하라](Effective-java/42_익명클래스보다는_람다를_사용하라.md)
+- [아이템 43. 람다보다는 메서드 참조를 사용하라](Effective-java/43_람다보다는_메서드참조를_사용하라.md)
+- [아이템 44. 표준 함수형 인터페이스를 사용하라](Effective-java/44_표준함수형인터페이스를_사용하라.md)
 
 ### [OAuth](#OAuth)
 - [OAUTH2 기본](OAuth/OAuth2_기본.md)
