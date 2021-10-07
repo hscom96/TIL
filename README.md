@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_51 TILs and counting..._
+_50 TILs and counting..._
 
 ---
 
@@ -12,7 +12,6 @@ _51 TILs and counting..._
 
 - [Book](#Book)
 - [Effective-java](#Effective-java)
-- [OAuth](#OAuth)
 
 ### [Book](#Book)
 - [객체지향 사실과 오해 [조영호 저]](Book/객체지향사실과오해.md)
@@ -67,9 +66,6 @@ _51 TILs and counting..._
 - [아이템 44. 표준 함수형 인터페이스를 사용하라](Effective-java/44_표준함수형인터페이스를_사용하라.md)
 - [아이템 45. 스트림은 주의해서 사용하라](Effective-java/45_스트림은_주의해서_사용하라.md)
 - [아이템 46. 스트림에서는 부작용 없는 함수를 사용하라](Effective-java/46_스트림에서는_부작용없는함수를_사용하라.md)
-
-### [OAuth](#OAuth)
-- [OAUTH2 기본](OAuth/OAuth2_기본.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
