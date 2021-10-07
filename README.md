@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_51 TILs and counting..._
+_50 TILs and counting..._
 
 ---
 
@@ -16,7 +16,6 @@ _51 TILs and counting..._
 
 ### [Book](#Book)
 - [리펙터링 [마틴파울러 저]](Book/리펙터링.md)
-- [자바와 Junit을 활용한 실용주의 단위 테스트 [제프랭어, 앤디헌트, 데이브토마스 저]](Book/자바와_Junit을_활용한_실용주의단위테스트.md)
 - [테스트 주도 개발 시작하기 [최범균 저]](Book/테스트주도_개발_시작하기.md)
 
 ### [Effective-java](#Effective-java)
