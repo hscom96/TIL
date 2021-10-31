@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_57 TILs and counting..._
+_60 TILs and counting..._
 
 ---
 
@@ -73,6 +73,9 @@ _57 TILs and counting..._
 - [아이템 52. 오버로딩는 신중히 사용하라](Effective-java/52_overloading은_신중히_사용하라.md)
 - [아이템 53. 가변인수는 신중히 사용하라](Effective-java/53_가변인수는_신중히_사용하라.md)
 - [아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](Effective-java/54_null이아닌_빈컬렉션이나배열을_반환하라.md)
+- [아이템 55. 옵셔널 반환은 신중히 하라](Effective-java/55_옵셔널_반환은_신중히하라.md)
+- [아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라](Effective-java/56_공개된_API요소에는_항상문서화주석_작성.md)
+- [아이템 57. 지역변수의 범위를 최소화하라](Effective-java/57_지역변수_범위를_최소화하라.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
