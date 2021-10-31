@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_50 TILs and counting..._
+_57 TILs and counting..._
 
 ---
 
@@ -66,6 +66,13 @@ _50 TILs and counting..._
 - [아이템 44. 표준 함수형 인터페이스를 사용하라](Effective-java/44_표준함수형인터페이스를_사용하라.md)
 - [아이템 45. 스트림은 주의해서 사용하라](Effective-java/45_스트림은_주의해서_사용하라.md)
 - [아이템 46. 스트림에서는 부작용 없는 함수를 사용하라](Effective-java/46_스트림에서는_부작용없는함수를_사용하라.md)
+- [아이템 47. 반환 타입으로는 스트림보다는 컬렉션이 낫다](Effective-java/47_반환타입으로는_스트림보다_컬렉션이_낫다.md)
+- [아이템 49. 매개변수가 유효한지 검사하라](Effective-java/49_매개변수가_유효한지_검사하라.md)
+- [아이템 50. 적시에 방어적 복사본을 만들라](Effective-java/50_적시에_방어적복사본을_만들라.md)
+- [아이템 51. 메서드 시그니처를 신중히 설계하라](Effective-java/51_메서드시그니처를_신중히_설계하라.md)
+- [아이템 52. 오버로딩는 신중히 사용하라](Effective-java/52_overloading은_신중히_사용하라.md)
+- [아이템 53. 가변인수는 신중히 사용하라](Effective-java/53_가변인수는_신중히_사용하라.md)
+- [아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](Effective-java/54_null이아닌_빈컬렉션이나배열을_반환하라.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
