@@ -1,8 +1,8 @@
 # TIL
+
 > Today I Learned
 
-📚 꾸준히 기록을 
-
+📚 꾸준히 기록을
 
 _57 TILs and counting..._
 
@@ -14,11 +14,13 @@ _57 TILs and counting..._
 - [Effective-java](#Effective-java)
 
 ### [Book](#Book)
+
 - [객체지향 사실과 오해 [조영호 저]](Book/객체지향사실과오해.md)
 - [리펙터링 [마틴파울러 저]](Book/리펙터링.md)
 - [테스트 주도 개발 시작하기 [최범균 저]](Book/테스트주도_개발_시작하기.md)
 
 ### [Effective-java](#Effective-java)
+
 - [아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라](Effective-java/01_정적팩토리메서드.md)
 - [아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라.](Effective-java/02_builder.md)
 - [아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](Effective-java/03_singleton.md)
@@ -75,5 +77,6 @@ _57 TILs and counting..._
 - [아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라](Effective-java/54_null이아닌_빈컬렉션이나배열을_반환하라.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+
 [2]: https://github.com/jbranchaud/til
 
