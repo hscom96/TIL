@@ -1,4 +1,4 @@
-# 아이템14. Comparable을 구현할지 고려하라
+# 아이템 14. Comparable을 구현할지 고려하라
 
  > Comparable 인터페이스의 유일한 메서드인 compareTo는 Object 메서드가 아니다.
 
