@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_77 TILs and counting..._
+_76 TILs and counting..._
 
 ---
 
@@ -12,7 +12,6 @@ _77 TILs and counting..._
 
 - [Book](#Book)
 - [Effective-java](#Effective-java)
-- [자료구조](#자료구조)
 
 ### [Book](#Book)
 - [리펙터링 [마틴파울러 저]](Book/리펙터링.md)
@@ -93,9 +92,6 @@ _77 TILs and counting..._
 - [아이템 75. 예외의 상세 메시지에 실패 관련 정보를 담으라](Effective-java/75_예외의_상세메세지에_실패관련정보를_담아라.md)
 - [아이템 76. 가능한 한 실패 원자적으로 만들라](Effective-java/76_가능한_실패원자적으로_만들라.md)
 - [아이템 77. 예외를 무시하지 마라](Effective-java/77_예외를_무시하지말라.md)
-
-### [자료구조](#자료구조)
-- [# Array](자료구조/기본.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
