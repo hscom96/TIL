@@ -1,4 +1,4 @@
-# 아이템 9. try-finally 보다는 try-with-resources를 사용하라
+# 아이템 09. try-finally 보다는 try-with-resources를 사용하라
 
 ## 사용 배경
   - 자바 라이브러리에는 close 메서드를 호출해 직접 닫아야 하는 자원이 많다.
