@@ -1,5 +1,22 @@
 # 아이템 14. Comparable을 구현할지 고려하라
 
+- [아이템 14. Comparable을 구현할지 고려하라](#아이템-14-comparable을-구현할지-고려하라)
+  - [Object의 equals와 다른점](#object의-equals와-다른점)
+  - [compareTo 일반규약](#compareto-일반규약)
+      - [1. 모든 x, y에 대해 sgn(x.compareTo(y)) == -sgn(y.compareTo(x))](#1-모든-x-y에-대해-sgnxcomparetoy---sgnycomparetox)
+      - [2. 추이성 보장해야한다.](#2-추이성-보장해야한다)
+      - [3. 모든 z에 대해서 x.compareTo(y) == 0 이면 sgn(x.compareTo(z)) == sgn(y.compareTo(z))](#3-모든-z에-대해서-xcomparetoy--0-이면-sgnxcomparetoz--sgnycomparetoz)
+      - [4. (x.compareTo == 0)== (x.equals(y))](#4-xcompareto--0-xequalsy)
+  - [주의사항](#주의사항)
+  - [compareTo 작성요령](#compareto-작성요령)
+      - [1) CompareTo는 제네릭 인터페이스다. 입력 인수의 타입을 확인하거나 형변환할 필요없다.](#1-compareto는-제네릭-인터페이스다-입력-인수의-타입을-확인하거나-형변환할-필요없다)
+      - [2) compareTo 메서드는 각 필드가 동치인지를 비교하는게 아니라 순서를 비교한다.](#2-compareto-메서드는-각-필드가-동치인지를-비교하는게-아니라-순서를-비교한다)
+      - [3) 정수 기본 타임 필드를 비교할때 관계연산자(>, <)를 사용하는 비교 방식은 추천하지 않는다.](#3-정수-기본-타임-필드를-비교할때-관계연산자-를-사용하는-비교-방식은-추천하지-않는다)
+      - [4) 클래스에 여러 필드가 있으면 핵심 필드부터 검사하자.](#4-클래스에-여러-필드가-있으면-핵심-필드부터-검사하자)
+      - [5) 비교자 생성 메서드(comparator construction)를 활용하는 방법](#5-비교자-생성-메서드comparator-construction를-활용하는-방법)
+
+<br/>
+
  > Comparable 인터페이스의 유일한 메서드인 compareTo는 Object 메서드가 아니다.
 
  ## Object의 equals와 다른점
@@ -25,16 +42,16 @@
 
 - 아래 3가지 규약은 equals 규약과 같이 반사성, 대칭성, 추이성을 충족해야 한다는 뜻이다.
 
-##### 1. 모든 x, y에 대해 sgn(x.compareTo(y)) == -sgn(y.compareTo(x))
+#### 1. 모든 x, y에 대해 sgn(x.compareTo(y)) == -sgn(y.compareTo(x))
 - 두 객체 참조의 순서를 바꿔 비교해도 예상한 결과가 나와야한다는 이야기
 
-##### 2. 추이성 보장해야한다.
+#### 2. 추이성 보장해야한다.
 - 첫번째가 두번째보다 크고 두번째가 세번째보다 크면 첫번째는 세번째보다 커야한다는 이야기
 
-##### 3. 모든 z에 대해서 x.compareTo(y) == 0 이면 sgn(x.compareTo(z)) == sgn(y.compareTo(z))
+#### 3. 모든 z에 대해서 x.compareTo(y) == 0 이면 sgn(x.compareTo(z)) == sgn(y.compareTo(z))
 - 크기가 같은 객체들끼리는 어떤 객체와 비교하더라도 항상 같아야 한다는 이야기
 
-##### 4. (x.compareTo == 0)== (x.equals(y))
+#### 4. (x.compareTo == 0)== (x.equals(y))
   - 필수는 아니지만 꼭 지키는게 좋음
 
 <br/>
