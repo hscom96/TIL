@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_76 TILs and counting..._
+_82 TILs and counting..._
 
 ---
 
@@ -92,6 +92,12 @@ _76 TILs and counting..._
 - [아이템 75. 예외의 상세 메시지에 실패 관련 정보를 담으라](Effective-java/75_예외의_상세메세지에_실패관련정보를_담아라.md)
 - [아이템 76. 가능한 한 실패 원자적으로 만들라](Effective-java/76_가능한_실패원자적으로_만들라.md)
 - [아이템 77. 예외를 무시하지 마라](Effective-java/77_예외를_무시하지말라.md)
+- [아이템 85. 자바 직렬화의 대안을 찾으라](Effective-java/85_자바_직렬화의_대안을_찾아라.md)
+- [아이템 86. Serializable을 구현할지는 신중히 결정하라](Effective-java/86_Serializable을_구현할지_신중히라.md)
+- [아이템 87. 커스텀 직렬화 형태를 고려해보라](Effective-java/87_커스텀_직렬화형태를_고려해보라.md)
+- [아이템 88. readObject 메서드는 방어적으로 작성하라](Effective-java/88_readObject메서드_방어적으로_작성하라.md)
+- [아이템 89. 인스턴스 수를 통제해야 한다면 readResolve 보단는 열거 타입을 사용하라](Effective-java/89_인스턴스수를_통제해야한다면_readResolve보다는_열거타입을_사용하라.md)
+- [아이템 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](Effective-java/90_직렬화된_인스턴스대신_직렬화프록시_사용을검토하라.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
