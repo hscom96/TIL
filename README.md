@@ -97,7 +97,7 @@ _82 TILs and counting..._
 - [아이템 87. 커스텀 직렬화 형태를 고려해보라](Effective-java/87_커스텀_직렬화형태를_고려해보라.md)
 - [아이템 88. readObject 메서드는 방어적으로 작성하라](Effective-java/88_readObject메서드_방어적으로_작성하라.md)
 - [아이템 89. 인스턴스 수를 통제해야 한다면 readResolve 보단는 열거 타입을 사용하라](Effective-java/89_인스턴스수를_통제해야한다면_readResolve보다는_열거타입을_사용하라.md)
-- [아이템 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](Effective-java/90_직렬화된_인스턴스대신_직렬화프록시_사용을검토하라.md)
+- [아이템 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](Effective-java/90_직렬화된_인스턴스대신_직렬화프록시_사용을검토하라.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
