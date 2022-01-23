@@ -1,5 +1,12 @@
 # 아이템 88. readObject 메서드는 방어적으로 작성하라
 
+- [아이템 88. readObject 메서드는 방어적으로 작성하라](#아이템-88-readobject-메서드는-방어적으로-작성하라)
+  - [`readObject` 메서드](#readobject-메서드)
+  - [유효성 검사](#유효성-검사)
+  - [방어적 복사](#방어적-복사)
+  - [그럼 언제 기본 readObject를 사용할까?](#그럼-언제-기본-readobject를-사용할까)
+  - [안전한 readObject 메서드 작성 지침](#안전한-readobject-메서드-작성-지침)
+
 <br/>
 
 ## `readObject` 메서드
