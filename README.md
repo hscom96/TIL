@@ -11,17 +11,12 @@ _85 TILs and counting..._
 ### Categories
 
 - [Book](#Book)
-- [CleanArchitecture](#CleanArchitecture)
 - [Effective-java](#Effective-java)
+- [clean-architecture](#clean-architecture)
 
 ### [Book](#Book)
 - [리펙터링 [마틴파울러 저]](Book/리펙터링.md)
 - [테스트 주도 개발 시작하기 [최범균 저]](Book/테스트주도_개발_시작하기.md)
-
-### [CleanArchitecture](#CleanArchitecture)
-- [10장. ISP: 인터페이스 분리 원칙](CleanArchitecture/10장_인터페이스분리원칙.md)
-- [11장. DIP: 의존성 역전 원칙](CleanArchitecture/11장_의존성역전원칙.md)
-- [9장. LSP: 리스코프 치환법칙](CleanArchitecture/9장_리스코프치환법칙.md)
 
 ### [Effective-java](#Effective-java)
 - [아이템 01. 생성자 대신 정적 팩터리 메서드를 고려하라](Effective-java/01_정적팩토리메서드.md)
@@ -104,6 +99,11 @@ _85 TILs and counting..._
 - [아이템 88. readObject 메서드는 방어적으로 작성하라](Effective-java/88_readObject메서드_방어적으로_작성하라.md)
 - [아이템 89. 인스턴스 수를 통제해야 한다면 readResolve 보단는 열거 타입을 사용하라](Effective-java/89_인스턴스수를_통제해야한다면_readResolve보다는_열거타입을_사용하라.md)
 - [아이템 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](Effective-java/90_직렬화된_인스턴스대신_직렬화프록시_사용을검토하라.md)
+
+### [clean-architecture](#clean-architecture)
+- [10장. ISP: 인터페이스 분리 원칙](clean-architecture/10장_인터페이스분리원칙.md)
+- [11장. DIP: 의존성 역전 원칙](clean-architecture/11장_의존성역전원칙.md)
+- [9장. LSP: 리스코프 치환법칙](clean-architecture/9장_리스코프치환법칙.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
