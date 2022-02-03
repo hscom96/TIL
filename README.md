@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_87 TILs and counting..._
+_84 TILs and counting..._
 
 ---
 
@@ -19,11 +19,8 @@ _87 TILs and counting..._
 - [테스트 주도 개발 시작하기 [최범균 저]](book/테스트주도_개발_시작하기.md)
 
 ### [clean-architecture](#clean-architecture)
-- [09장. LSP: 리스코프 치환법칙](clean-architecture/09장_리스코프치환법칙.md)
-- [10장. ISP: 인터페이스 분리 원칙](clean-architecture/10장_인터페이스분리원칙.md)
-- [11장. DIP: 의존성 역전 원칙](clean-architecture/11장_의존성역전원칙.md)
-- [12장. 컴포넌트](clean-architecture/12장_컴포넌트.md)
-- [13장. 컴포넌트 응집도](clean-architecture/13장_컴포넌트응집도.md)
+- [09장. LSP: 리스코프 치환법칙](clean-architecture/03부_설계원칙.md)
+- [12장. 컴포넌트](clean-architecture/04부_컴포넌트_원칙.md)
 
 ### [effective-java](#effective-java)
 - [아이템 01. 생성자 대신 정적 팩터리 메서드를 고려하라](effective-java/01_정적팩토리메서드.md)
