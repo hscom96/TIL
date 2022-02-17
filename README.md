@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_85 TILs and counting..._
+_88 TILs and counting..._
 
 ---
 
@@ -21,7 +21,10 @@ _85 TILs and counting..._
 ### [clean-architecture](#clean-architecture)
 - [03부. 설계 원칙](clean-architecture/03부_설계원칙.md)
 - [04부. 컴포넌트 원칙](clean-architecture/04부_컴포넌트_원칙.md)
-- [05부. 아키텍처](clean-architecture/05부_아키텍처.md)
+- [05부. 아키텍처](clean-architecture/05-1부_아키텍처.md)
+- [05부. 아키텍처](clean-architecture/05-2부_아키텍처.md)
+- [05부. 아키텍처](clean-architecture/05-3부_아키텍처.md)
+- [v# 05부. 아키텍처](clean-architecture/05-4부_아키텍처.md)
 
 ### [effective-java](#effective-java)
 - [아이템 01. 생성자 대신 정적 팩터리 메서드를 고려하라](effective-java/01_정적팩토리메서드.md)
