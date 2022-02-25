@@ -4,7 +4,7 @@
 📚 꾸준히 기록을 
 
 
-_88 TILs and counting..._
+_89 TILs and counting..._
 
 ---
 
@@ -25,6 +25,7 @@ _88 TILs and counting..._
 - [05-2부. 아키텍처](clean-architecture/05-2부_아키텍처.md)
 - [05-3부. 아키텍처](clean-architecture/05-3부_아키텍처.md)
 - [05-4부. 아키텍처](clean-architecture/05-4부_아키텍처.md)
+- [05-5부. 아키텍처](clean-architecture/05-5부_아키텍처.md)
 
 ### [effective-java](#effective-java)
 - [아이템 01. 생성자 대신 정적 팩터리 메서드를 고려하라](effective-java/01_정적팩토리메서드.md)
