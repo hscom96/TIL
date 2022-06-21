@@ -1,12 +1,5 @@
 # 아이템 09. try-finally 보다는 try-with-resources를 사용하라
 
-- [아이템 09. try-finally 보다는 try-with-resources를 사용하라](#아이템-09-try-finally-보다는-try-with-resources를-사용하라)
-  - [사용 배경](#사용-배경)
-  - [try-finally](#try-finally)
-  - [try-with-resources](#try-with-resources)
-
-<br/>
-
 ## 사용 배경
   - 자바 라이브러리에는 close 메서드를 호출해 직접 닫아야 하는 자원이 많다.
   - 하지만 자원 닫기는 클라이언트가 놓치기 쉬워서 예측할 수 없는 성능 문제로 이어진다.

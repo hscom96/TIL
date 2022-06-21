@@ -1,13 +1,5 @@
 # 아이템 08. finalizer와 cleaner 사용을 피하라
 
-- [아이템 08. finalizer와 cleaner 사용을 피하라](#아이템-08-finalizer와-cleaner-사용을-피하라)
-  - [finalizer & cleaner 란?](#finalizer--cleaner-란)
-  - [문제점](#문제점)
-  - [쓰임새](#쓰임새)
-  - [자원 반납 해결책](#자원-반납-해결책)
-
-<br/>
-
 ## finalizer & cleaner 란?
 - 자바는 객체 소멸자는 2가지 (finalizer과 그 대안인 cleaner)을 제공하지만 기본적으로는 사용하면 안된다.
 
