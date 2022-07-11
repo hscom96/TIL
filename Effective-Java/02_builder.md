@@ -12,7 +12,7 @@
   * 매개변수가 바껴도 컴파일러는 못잡아서 런타임 오류 발생 가능성
   * 등등
 
-\
+
 
 
 ### 방법 2. 자바빈즈 패턴(JavaBeans pattern)
@@ -38,7 +38,6 @@ cocaCola.setSodium(35);
   * getter, setter가 있어서 불변 클래스를 만들지 못함.
   * (쓰레드 간에 공유 가능한 상태가 있으니까) 스레드 안정성 얻으려면 추가적인 수고(locking)필요하다.
 
-\
 
 
 ### 방법 3. 빌더 패턴 (Builder pattern)
@@ -64,7 +63,7 @@ NutritionFacts cocaCola = new NutritionFacts.Builder(240, 8)
 * 예제코드 참조
   * https://github.com/greekZorba/java-design-patterns/tree/master/builder
 
-\
+
 
 
 ### \[실습] Lombok을 이용하여 builder 구현
